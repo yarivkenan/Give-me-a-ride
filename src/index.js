@@ -35,7 +35,7 @@ geolocator.config({
         language: "en",
         google: {
             version: "3",
-            key: "AIzaSyCWRkxagnV8xOKoDQVdhLjBOZAO_R7cWPQ"
+            key: "GoogleApiKey"
         }
     });
 
