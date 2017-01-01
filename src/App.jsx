@@ -19,7 +19,7 @@ class App extends Component {
                 </div>
                 <GoogleMap
                   bootstrapURLKeys={{
-                    key: 'AIzaSyCWRkxagnV8xOKoDQVdhLjBOZAO_R7cWPQ',
+                    key: 'GoogleApiKey',
                     language: 'en',
                   }}
                   defaultCenter={{lat: 32.1607249, lng: 34.8090371}}
